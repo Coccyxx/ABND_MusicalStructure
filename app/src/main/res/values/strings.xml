@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ABND_MusicalStructure</string>
+    <string name="artists">Artists</string>
+    <string name="add_artists">add artists</string>
+    <string name="artist_pic">artist pic</string>
+    <string name="album_pic">album pic</string>
+    <string name="round_frame">round frame</string>
+    <string name="no_adding_artists_toast">Sorry, you cannot add artists.</string>
+    <string name="no_songs_available_toast">No songs of this artist available.</string>
+    <string name="play_button">play button</string>
+    <string name="previous_button">previous button</string>
+    <string name="again_button">again button</string>
+    <string name="stop_button">stop button</string>
+    <string name="next_button">next button</string>
+    <string name="start_time">0:00</string>
+    <string name="playing_song_number">(Song <xliff:g id="songNr">%d</xliff:g>/<xliff:g id="songsTotal">%d</xliff:g>)</string>
+    <string name="not_implemented">Not implemented yet</string>
+</resources>
